@@ -2,14 +2,6 @@
 
 <h2 align="center"> I enjoy and love coding very much 🔥 </h2>
 
-- 🔭 I’m currently learning to better my coding skills especially in Elixir/Phoenix/Pheonix Liveview.
-
-- 🌱 I have managed to finish a Bsc. in Computer Technology and one of the best Tech Uni's in Kenya, Jomo Kenyatta University of Agriculture and Technology.
-
-- 👯 I’m looking forward to collaborate on open source projects or developing web applications.
-
-- 🤔 I’m looking for help on how to better approach Tech on different angles, to be efficient and grow with the community
-
 ---
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -25,7 +17,7 @@
 - Elixir
 - JavaScript
   
-### 🛠️ Tools :
+### 🛠️ Front-end frameworks :
 - Pheonix/Pheonix Liveview
 - Node
 - Vue
