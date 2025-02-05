@@ -9,18 +9,20 @@
   </a>
 </p>
 
----
-
-
 ### 🛠️ Languages :
 
 - Elixir
+- ExpressJs
+- NestJs
 - JavaScript
+- PHP
   
 ### 🛠️ Front-end frameworks :
 - Pheonix/Pheonix Liveview
 - Node
 - Vue
+- React
+- Laravel Hotwire
 ---
 
 
