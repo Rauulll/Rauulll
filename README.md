@@ -16,6 +16,7 @@
 - NestJs
 - JavaScript
 - PHP
+- Typescript
   
 ### 🛠️ Front-end frameworks :
 - Pheonix/Pheonix Liveview
