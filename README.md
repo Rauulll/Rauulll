@@ -24,6 +24,10 @@
 - Vue
 - React
 - Laravel Hotwire
+
+
+### 🛠️ ORMS :
+- Prisma
 ---
 
 
