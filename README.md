@@ -28,6 +28,7 @@
 
 ### 🛠️ ORMS :
 - Prisma
+- TypeORM
 ---
 
 
