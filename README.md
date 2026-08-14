@@ -42,8 +42,9 @@
 ---
 
 ### 🔥 My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rauulll&show_icons=true&theme=dracula) </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauulll&layout=compact&theme=dracula) </p>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rauulll&langs_count=5) </p>
+[![ GitHub stats](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rauulll&" alt="Rauulll" /></p>
