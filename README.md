@@ -1,36 +1,42 @@
-<h1 align="center"> Hi there 👋 I'm Raulins Nyaoke </h1>
+<h1 align="center"> Hi there 👋 I'm Raulins </h1>
 
 <h2 align="center"> I enjoy and love coding very much 🔥 </h2>
 
----
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rauulll" alt="rauulll" />
-  </a>
-</p>
 
-### 🛠️ Languages :
-
+### 🛠️ Languages:
 - Elixir
-- ExpressJs
-- NestJs
+- TypeScript
 - JavaScript
-- PHP
-- Typescript
-  
-### 🛠️ Front-end frameworks :
-- Pheonix/Pheonix Liveview
-- Node
-- Vue
+- Go
+- Python
+- Shell / Bash
+
+### 🛠️ Backend Frameworks:
+- Phoenix / Phoenix LiveView
+- NestJS
+- Express.js
+
+### 🛠️ Frontend:
 - React
-- Laravel Hotwire
+- Vue.js
 
+### 🛠️ APIs:
+- Absinthe (GraphQL)
+- REST
 
-### 🛠️ ORMS :
-- Prisma
-- TypeORM
+### 🛠️ Databases & ORMs:
+- PostgreSQL
+- Ecto
+- Redis
+
+### 🛠️ Infra & Tooling:
+- Docker
+- Kubernetes (learning)
+- CI/CD Pipelines
+- Oban (background jobs)
+- ExVCR (testing)
+
 ---
-
 
 - 📫 How to reach me:
 <p align="left">
@@ -41,24 +47,9 @@
 
 ---
 
-### 🔥 My Stats :
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rauulll&langs_count=5) </p>
-[![ GitHub stats](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+### 🔥 My Stats:
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rauulll&langs_count=5)
 
-
+[![GitHub stats](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Rauulll&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rauulll&" alt="Rauulll" /></p>
-<!--
-**Rauulll/Rauulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
