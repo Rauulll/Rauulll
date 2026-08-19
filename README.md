@@ -34,7 +34,7 @@
 - Kubernetes (learning)
 - CI/CD Pipelines
 - Oban (background jobs)
-- ExVCR (testing)
+- ExVCR, jest (testing)
 
 ---
 
