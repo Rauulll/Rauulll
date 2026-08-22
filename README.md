@@ -19,6 +19,7 @@
 ### 🛠️ Frontend:
 - React
 - Vue.js
+- Next.js
 
 ### 🛠️ APIs:
 - Absinthe (GraphQL)
@@ -28,6 +29,8 @@
 - PostgreSQL
 - Ecto
 - Redis
+- Prisma
+- Drizzle
 
 ### 🛠️ Infra & Tooling:
 - Docker
